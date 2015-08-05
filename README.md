@@ -1,3 +1,3 @@
 # dbbackupandupload
 
-Dumps the database and log in syslog and after that sends the data in dropbox
+Dumps the database and log in syslog and after that sends the data in dropbox (Can update large data also)
